@@ -11,7 +11,7 @@ HoopVision is a computer-vision basketball analytics system that extracts game s
 - `main.py`: Main script to run the analysis.
 - `train.py`: Script to train YOLOv8 models.
 - `config.yaml`: Configuration file for paths, thresholds, and parameters.
-- `models/`: Pre-trained YOLOv8 model weights.
+- `models/`: Pre-trained and trained YOLOv8 model weights placeholder.
 - `train/` and `valid/`: Datasets for training custom models.
 - `requirements.txt`: Python dependencies.
 
