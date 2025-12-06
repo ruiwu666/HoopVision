@@ -1,0 +1,16 @@
+========================================
+       BASKETBALL ANALYTICS REPORT      
+========================================
+Date: 2025-12-05 18:20:29
+Video File: 1.mp4
+Total Frames: 501/502
+Video Duration: 8.36 seconds
+----------------------------------------
+TEAM A (Blue)
+  - Possession: 41.2%
+  - Field Goals: 0/1
+----------------------------------------
+TEAM B (Red)
+  - Possession: 58.8%
+  - Field Goals: 0/0
+========================================

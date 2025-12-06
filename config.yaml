@@ -1,0 +1,11 @@
+# Data downloaded from: https://universe.roboflow.com/robocon-qchql/hoops-chrie-ivyrc/dataset/3/download
+
+# Dataset paths
+path: /Users/apple/Desktop/HoopVision
+train: train/images
+val: valid/images
+test: test/images
+
+# Classes
+nc: 2
+names: ['Basketball', 'Basketball Hoop']
